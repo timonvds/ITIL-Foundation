@@ -1,12 +1,12 @@
-# 1. Introduction
+# Introduction
 
-Waarde toevoegen om meer kostefficient te kunnen werken. 
-Processen in kwaliteit verbeteren en hun kost verlagen.
+Adding **value** to work more costefficient.  
+Improve process **quality** and lower their **cost**.  
 
-ITIL = IT Infrastructure Library
-ITSM = IT Serivce management is the implementation and management of quality services based on the needs of businesses by a service provider.
-Service = a mean way to deliver value, by delivering outcomes to customers without specific ownership of risks and costs.
-VB Netflix: Outcome = digitale films(content) en value = de mogelijkheid om overal te kunnen kijken zonder afhankelijk te zijn van lokale zenders.
+**ITIL** = IT Infrastructure Library  
+**ITSM** = IT Serivce management is the implementation and management of quality services based on the needs of businesses by a service provider.  
+Service = a mean way to deliver value, by delivering outcomes to customers without specific ownership of risks and costs.  
+VB Netflix: Outcome = Movies(content) and value = the possibility to watch content everywhere and being independant from local tv stations.  
 
 4 Actions of responses:
 	1. Accept:
@@ -20,12 +20,12 @@ VB Netflix: Outcome = digitale films(content) en value = de mogelijkheid om over
 
 ![Impact and probability matrix](https://www.mindtools.com/media/Diagrams/ImpactProbabilityMatrix.jpg)
 
-Proximity: How far is the risk away of reaching us? Should we act now or do we have some spare time?
+Proximity: How far is the risk away of reaching us? Should we act now or do we have some spare time?  
 
 ![Service Strategy](https://image.slidesharecdn.com/anintroductiontoservicemanagementitil-110221200422-phpapp02/95/an-introduction-to-service-management-itil-4-728.jpg?cb=1298318694)
 
 **Value:**
-	Utility: improving services without the having risk -> AWS: Geen zorgen moeten maken over de onderliggende infrastructuur
+	Utility: improving services without having the risk -> AWS: No need to worry about the infrastructure
 	Warranty: 
 		1. Is it available enough?
 		2. Has it enough capacity to support desired performance?
@@ -36,34 +36,34 @@ Proximity: How far is the risk away of reaching us? Should we act now or do we h
 
 - Customer Facing Services and Suporting Services
 
-vs 
+vs
 
 - Core service -> the core feature of the service
-- Enabling service -> what makes the core service enable
+- Enabling service -> what enables the core service
 - Enhancing service -> What makes the core service more beautiful or attractive
 
-IT service provider = Resources (servers,geld,...) + Capabilities(Skills,...) om services te gaan leveren.
+IT service provider = Resources (servers,money,...) + Capabilities(Skills,...) to deliver services.  
 
 ### Types of IT Service providers:
 	
 - Type I: Internal Service Provider
-	- Diensten gaan leveren voor bepaalde business unit
+	- Deliver services for one business unit
 - Type II: Shared Service Provider
-	- Diensten gaan leveren voor meerdere verschillende business units
+	- Deliver services for multiple business units
 - Type III: External Service Provider
-	- Externe firma die services levert aan één of meerdere business units
+	- External party delivering services for one or multiple business units
 
-RACI tabel (Responsible Accountable Consulted Informed)
+RACI tabel (Responsible Accountable Consulted Informed)  
 ![RACI Roles](http://itsmtransition.com/wp-content/uploads/2014/07/Basic-RACI-Roles.jpg)
-Een persoon die accountable is en één persoons die responsible is, nooit meerdere beiden tesamen kan.
+One person is accountable and one person is being responsible, never multiple of these categories. Combining these categories is possible.  
 [RACI Table](RACI.xlsx)
 
 ### Generic roles in Service Managemant:
 
-- Service Owner: Persoon accountable voor de service zelf
-- Process Owner: Persoon accountable voor het proces
-- Process Manager: Volgt dagdagelijks het proces op
-- Process Practioner: Voert het proces uit
+- Service Owner: Person accountable for the service
+- Process Owner: Person accountable for the process
+- Process Manager: Reviews the process on a daily basis
+- Process Practioner: Executes the process
 
 ### Stakeholders:
 
