@@ -56,7 +56,7 @@ IT service provider = Resources (servers,geld,...) + Capabilities(Skills,...) om
 RACI tabel (Responsible Accountable Consulted Informed)
 ![RACI Roles](http://itsmtransition.com/wp-content/uploads/2014/07/Basic-RACI-Roles.jpg)
 Een persoon die accountable is en één persoons die responsible is, nooit meerdere beiden tesamen kan.
-[RACI Table] RACI.xlsx
+[RACI Table](RACI.xlsx)
 
 ### Generic roles in Service Managemant:
 
