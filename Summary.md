@@ -9,14 +9,14 @@ Service = a mean way to deliver value, by delivering outcomes to customers witho
 VB Netflix: Outcome = Movies(content) and value = the possibility to watch content everywhere and being independant from local tv stations.  
 
 4 Actions of responses:
-	1. Accept:
-		Acknowledging the risk and accepting the consequences. Has a small chance of happening.
-	2. Avoid:
-		Making sure it will never happen
-	3. Tranfser:
-		Passing on the riks -> Car insurance
-	4. Mitigate:
-		Impact or probability will reduce. Making sure it will do a minimal harm, or a minimal chance of happening.
+1. Accept:
+	Acknowledging the risk and accepting the consequences. Has a small chance of happening.
+2. Avoid:
+	Making sure it will never happen
+3. Tranfser:
+	Passing on the riks -> Car insurance
+4. Mitigate:
+	Impact or probability will reduce. Making sure it will do a minimal harm, or a minimal chance of happening.
 
 ![Impact and probability matrix](https://www.mindtools.com/media/Diagrams/ImpactProbabilityMatrix.jpg)
 
