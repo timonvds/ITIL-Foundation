@@ -29,8 +29,8 @@ Proximity: How far is the risk away of reaching us? Should we act now or do we h
 
 **Value:**
 Value is created through both: 
-	- Utility: Fucntionality offered by a service to meet a particular need or achieve a particular outcome. Improving services without having the risk -> AWS: No need to worry about the infrastructure
-	- Warranty: Assurance that a service will meet its agreed requirements.
+- Utility: Fucntionality offered by a service to meet a particular need or achieve a particular outcome. Improving services without having the risk -> AWS: No need to worry about the infrastructure
+- Warranty: Assurance that a service will meet its agreed requirements.
 		1. Is it available enough?
 		2. Has it enough capacity to support desired performance?
 		3. Continuous enough?
@@ -116,27 +116,32 @@ The service lifecycle has:
 	- Continual Service Improvement
 
 ## Why ITIL?
-
 - Best practice
 - Non prescriptive
 - Vendor neutral
 
 # 2. Service Strategy
-
-- Perspective
-- Position
-- Plans
-- Patterns
+- Perspective: covers the overall vision and direction of the organization
+- Position: defines how the service provider deals with competition from other players in the market. Specifically, position explains what capabilities and attributes make this service provider unique
+- Plans: How the service provider will move from its current state to its desired state. Activities that must be accomplished for a service provider to realize its perspective and positions
+- Patterns: Describe repeatable actions that the service provider performs in order to keep progressing towards it strategic objectives
 ![the four P's service strategy](https://i2.wp.com/www.certguidance.com/wp-content/uploads/2018/02/ITLR0031-ITIL-4ps-of-service-strategy.png?fit=450%2C450&ssl=1)
 
+Types of services: 
+- Core: Delivers the basic outcomes desired by one or more customers. Specific level of utility and warranty.
+- Enabling: Needed in order to deliver a core service. May or may not be visible to the customer.
+- Enhancing: Added to a core service to make it more attractive to the customer.
+
 ## Service portfolio management
-	
 Value creation
-Zorgen dat we de juiste mix van services hebben.
+Making sure we have the right mix of services.
 
 1. Service pipeline
+	Contains supporting information for all services that are under consideration and might be offered if the organization had unlimited resources, capabilities and funding.
 2. Service catalog
+	Contains information on the services that are offered or available for deployment.
 3. Retired services
+	Contains information related to services that were once offered but have now been phased out or retired, as they were no longer necessary or generating value.
 
 ## Business relationship management
 
