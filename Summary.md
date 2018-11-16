@@ -1,11 +1,14 @@
 # Introduction
 
-Adding **value** to work more costefficient.  
-Improve process **quality** and lower their **cost**.  
+ITIL enables organizations to:
+- Add **value** to work more costefficient
+- Improve process **quality** and lower their **cost**
+- Manage investments, budget, risk, knowledge,...
 
 **ITIL** = IT Infrastructure Library  
 **ITSM** = IT Serivce management is the implementation and management of quality services based on the needs of businesses by a service provider.  
 Service = a mean way to deliver value, by delivering outcomes to customers without specific ownership of risks and costs.  
+Outcome = the result of carrying out an activity, following a process, or delivering an IT service.
 VB Netflix: Outcome = Movies(content) and value = the possibility to watch content everywhere and being independant from local tv stations.  
 
 4 Actions of responses:
@@ -25,16 +28,18 @@ Proximity: How far is the risk away of reaching us? Should we act now or do we h
 ![Service Strategy](https://image.slidesharecdn.com/anintroductiontoservicemanagementitil-110221200422-phpapp02/95/an-introduction-to-service-management-itil-4-728.jpg?cb=1298318694)
 
 **Value:**
-	Utility: improving services without having the risk -> AWS: No need to worry about the infrastructure
-	Warranty: 
+Value is created through both: 
+	- Utility: Fucntionality offered by a service to meet a particular need or achieve a particular outcome. Improving services without having the risk -> AWS: No need to worry about the infrastructure
+	- Warranty: Assurance that a service will meet its agreed requirements.
 		1. Is it available enough?
 		2. Has it enough capacity to support desired performance?
 		3. Continuous enough?
 		4. Secure enough?
-
+		
 ### Types of services:
 
-- Customer Facing Services and Suporting Services
+- Customer Facing Services = IT Services that are visible to the customer
+- Suporting Services = IT Services that support or underpin the customer-facing services
 
 vs
 
@@ -68,18 +73,40 @@ One person is accountable and one person is being responsible, never multiple of
 ### Stakeholders:
 
 - IT Service Provider
-- Customer
-- User
-- Supplier
+- Customer: Those who buy or fund the service
+	1. Internal customers: Within the same business as the IT service provider.
+	2. External customers: Outside the IT service provider's business
+- User: use the service on a day-to-day basis
+- Supplier: Third parties supplying goods or services
+
+### Assets:  
+
+Any resource or capability:
+- Resources: 
+	- Tangible and direct inputs for production
+	- Includes IT infrastructure, people, money or anything else that might help to deliver an IT service
+- Capabilities:
+	- Intangible and represent an organization's ability to coordinate, control and deploy resources to produce values.
+	
+Customer asset: Any resource or capability used by a customer to achieve a business outcome
+Service asset: Any resource or capability used by a service provider to deliver services to a customer
 
 ### Processen:
-
+A structured set of activities designed to accomplish a specific objective.
 - Measureable
 - Specific result
 - Trigger
 - Customer
 
-Governance = Instantie die de regels oplegt.
+Governance = Instance creating the rules.
+
+### Service management
+
+Process roles:
+- Process owner: held accountable for ensuring that a process is fit for purpose. The owner's responsibilities include sponsorship, design, change management and continual improvement of the process. 
+- Process manager: Responsible for operational management of a process. Responsibilities include planning and coordination of all activities required to carry out, monitor and report on the process.
+- CSI manager: Accountable and responsible for continual service improvement within the organization.
+- Service owner: Responsible for managing one or more services throughout the entire lifecycle.
 
 The service lifecycle has:
 	- Service Strategy
