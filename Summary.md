@@ -353,3 +353,31 @@ Understand,document and communicate known errors and initiate actions to improve
 Reactively minimize the adverse impacts of incidents and problems.  
 Proactively prevent recurrence of incidents related to errors.  
 **Problem**: Underlying cause of one or more incidents.  
+**Workaround**: A means of reducing or eliminating the impact of an incident or problem for which a full resolution is not yet available. Workarounds are documented in known error records.  
+**Known error¨**: A problem that has a documented root cause and a workaround(not necessary). Known errors are created and managed by problemn management.  
+
+## Request fulfillment
+Manage the lifecycle of requests from users.  
+**Service request**: Request from a user from information or advice, or for a standard change or access to an IT service. Usually handled by service desk.  
+
+## Access management
+Grants authorized users the right to use a service, while preventing access to non-authorized users.
+CIAA
+
+
+## Service desk
+Single point of contact for the users.
+Local service desk: Een interne servicedesk voor gebruikers op dezelfde plaats als de service desk.
+Centralize service desk: Gecentraliseerde servicedesk voor gebruikers op meerdere plaatsen.
+Virtual service desk: gecentraliseerde servicedesk met meerdere werknemers op verschillende plaatsen
+
+24x7 follow the sun: 3x8 mee gaan met de zon op verschillende plaatsen in de wereld zodat er 24h/dag een servicedesk beschikbaar is.
+
+## Technical management
+Technical knowledge and expertise to manage IT infrastructure.  
+Provide the resources to support the service lifecycle.  
+
+## Application management
+Technical knowledge and expertise to manage IT applications.  
+Provide the resources to support the service lifecycle.  
+
