@@ -413,8 +413,8 @@ Stappen goed kennen en in volgorde!
 **Mision**: Short but complete description of the overall purpose and intentions of an organization. What should be achieved but not said how.  
 **Objectives**: Outcomes required from a process, activity or organization in order to ensure that its purpose will be fulfilled.  
 
-**Critical Success Factor (CSF)**: Something that must happen if IT services, process, plans, projects or other activities are to succeed.
-**Key performance indictor (KPI)**: Metric used to help manage an IT service, process, plan project or other activity.
+**Critical Success Factor (CSF)**: Something that must happen if IT services, process, plans, projects or other activities are to succeed.  
+**Key performance indictor (KPI)**: Metric used to help manage an IT service, process, plan project or other activity.  
 **Metric**: Something measured and reported to help manage a process, IT service or activity.  
 
 Three types of metics:
