@@ -283,8 +283,73 @@ Types of changes:
 2. Standard change: pre-authorized changes that are low in risk and relatively common.
 3. Emergency change: implemented in response to a disruption in service or a potential disruption to services. Greater risk.
 
-**CAB**(change advisory board): Group of people that advise the change manager in the assessment, prioritization and scheduling of changes.
-**ECAB** Emergency advisory board
-**Remediaton planning**: Actions taken to recover after a failed change or release.
+**CAB**(change advisory board): Group of people that advise the change manager in the assessment, prioritization and scheduling of changes.  
+**ECAB** Emergency advisory board  
+**Remediaton planning**: Actions taken to recover after a failed change or release.  
+
+## Release management
+
+Bundelen van changes.  
+Pilot release has a release package that has multiple release untis.
+...
+
+Early life support: Extra support right after going live with new processes.
+Definitive spares: Back-up material.
+
+## Knowledge management
+Share perspectives, ideas, experience and information.  
+Ensure information assets are available in the right place at the right time.  
+Enable informed decision making.  
+Reduce the need to rediscover knowledge.  
+
+Aiding in making the right decissions.  
+Data becomes information.  
+Information becomes knowledge.  
+Knowledge becomes wisdom.  
+
+### Service knowledge management system
+Has cms's and those cms's has cmdb's.
 
 
+# 5. Service operation
+
+Can we provide what we agreed upon?
+Coordinate and carry out the activity and processes required to deliver and manage services at the agreed-upon levels.
+Provide ongoing management of the technology that is used to deliver and support services.
+
+## Event management
+**Event**: Any change of state that segnificance for the management of CI or an IT service.
+Manage events through their lifecycle.  
+Provide the basis for operational monitoring and control.  
+
+Control and automate:
+- CI/Service
+- Environment
+- Licenses
+- Security
+- Normal activity
+
+Types of events:
+1. Informational: Indicating information that can be used for trending and analysis to inform service provider decision making.
+2. Warning: Indicating early warning information that can often be leveraged to minimize or prevent any user or business impact.
+3. Exception: Indicating abnormal situations or failures that require additional follow-up actions.
+
+**Alert**: When a threshold is passed. Transition from informational to warning. Or from warning to exception. Something happened, failure occured,...
+
+## Incident management
+Restore normal service operation asap.  
+Minimize the adverse impact on business operations.  
+
+**Incident**: Unplanned interruption to an IT service, or Reduction in the quality of an IT service, or Failure of a CI that has not yet impacted a service.  
+**Normal service operation**: The operational state where services and CIs are performing within their agreed service and operational levels.  
+
+Escalation:
+	- Fucnctional escalation: Who has the knowladge to fix this issue?
+	- Hyrarchical escalation: Who can decide about what we have to do? I need more time, budget,...
+
+## Problem management
+Manage the lifecycle of all problems from identification to removal.  
+Understand,document and communicate known errors and initiate actions to improve or correct the situation.  
+Reactively minimize the adverse impacts of incidents and problems.  
+Proactively prevent recurrence of incidents related to errors.  
+**Problem**: Underlying cause of one or more incidents.  
