@@ -252,3 +252,39 @@ Business impact analysis
 Ensure CIA of information
 Ensure authenticity of business transactions and exchanges
 
+# 4. Service transition
+zo hoog mogelijke value voor zo laag mogelijk risico.
+
+## Transition planning and support (TPS)
+Provide overall planning for service transitions.
+Coordinate the resources that service transitions require.
+
+## Service asset and configuration management (SACM)
+Ensure assets required to deliver services are properly controlled.
+Ensure accurate and reliable information about service assets exists and is available when and where it is needed.
+Understand the relationship between service assets.
+
+Informatie over CI's gaan bijhouden en linken met elkaar.
+
+### Configuration management system (CMS)
+
+Zijn 1 of meerdere cmdb's die op een logische manier met elkaar vebonden zijn.
+CMS forms a part of the SKMS (Service knowledge management system) 
+
+Definitive media library: secure storage place.
+
+## Change Management Process
+Control the lifecycle of all changes.
+Enable beneficial changes.
+Minimize the disruption associated with changes.
+
+Types of changes:
+1. Normal change
+2. Standard change: pre-authorized changes that are low in risk and relatively common.
+3. Emergency change: implemented in response to a disruption in service or a potential disruption to services. Greater risk.
+
+**CAB**(change advisory board): Group of people that advise the change manager in the assessment, prioritization and scheduling of changes.
+**ECAB** Emergency advisory board
+**Remediaton planning**: Actions taken to recover after a failed change or release.
+
+
