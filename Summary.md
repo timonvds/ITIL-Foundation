@@ -381,3 +381,54 @@ Provide the resources to support the service lifecycle.
 Technical knowledge and expertise to manage IT applications.  
 Provide the resources to support the service lifecycle.  
 
+# 6. Continual Service Improvement
+
+Allign IT services with changing business needs by identifying and implementing improvements to IT services that support business processes.  .
+Support the entire service lifecycle.  
+Improve service; processes and cost effectiveness.  
+
+- Plan
+- Do 
+- Check
+- Act
+
+CSI manager maintains the CSI register.  
+Not measured on personal metrics.  
+**Baseline**: Snapshot used as a reference point for late comparison.  
+Baseline must be applied at the following levels:
+- Strategic: goals and objectives
+- Tactical: process maturity
+- Operational: Including operational metrics and KPI's
+
+## The CSI approach
+Stappen goed kennen en in volgorde!  
+1. What is the vision?
+2. Where are we now?
+3. Where do we want to be?
+4. How do we get there?
+5. Did we get there?
+6. How do we keep the momentum going?
+
+**Vision**: Description of what the organization intends to become in the future.  
+**Mision**: Short but complete description of the overall purpose and intentions of an organization. What should be achieved but not said how.  
+**Objectives**: Outcomes required from a process, activity or organization in order to ensure that its purpose will be fulfilled.  
+
+**Critical Success Factor (CSF)**: Something that must happen if IT services, process, plans, projects or other activities are to succeed.
+**Key performance indictor (KPI)**: Metric used to help manage an IT service, process, plan project or other activity.
+**Metric**: Something measured and reported to help manage a process, IT service or activity.  
+
+Three types of metics:
+1. Technnology metrics
+2. Process metrics
+3. Service metrics
+
+Seven step improvement process:
+1. Identify the strategy for improvement
+2. Define what you will measure
+3. Gather the data
+4. Process the data
+5. Analyze the information and data
+6. Present and use the information
+7. Implement improvement
+
+
